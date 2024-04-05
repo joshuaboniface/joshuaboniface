@@ -1,6 +1,6 @@
 ### Hello, I'm Joshua Boniface
 
-You may remember me from such successful projects as [Jellyfin](/jellyfin) and [Parallel Virtual Cluster](/parallelvirtualcluster).
+You may remember me from such successful projects as [Jellyfin](https://github.com/jellyfin) and [Parallel Virtual Cluster](https://github.com/parallelvirtualcluster).
 
 By day, I'm a Senior Systems Architect (a.k.a. Sysadmin, DevOps Engineer, and Python developer all rolled into one fun package).
 
